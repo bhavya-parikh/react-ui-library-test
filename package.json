@@ -2,7 +2,7 @@
   "name": "react-ui-library-test",
   "version": "1.0.0",
   "description": "",
-  "main": "srcindex.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "vite build"
